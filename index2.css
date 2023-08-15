@@ -1,0 +1,24 @@
+#foto{
+    width: 300px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1,h2{
+font-family: 'Courier New', Courier, monospace;
+}
+a:hover{
+    background-color: palevioletred;
+}
+a:active{
+    background-color:pink;
+}
+a:link{
+    background-color:plum;
+}
+

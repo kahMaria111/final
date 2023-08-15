@@ -1,0 +1,26 @@
+.flor strong{
+    font-size: large;
+    background-color: pink;
+
+    
+}
+.container{
+    justify-content: flex-end;
+}
+
+#fotos{ width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    }
+
+#rosa{ width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-style: italic 20px;
+    background-color: palevioletred;
+    }
+
+
+
